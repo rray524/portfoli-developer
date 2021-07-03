@@ -50,3 +50,15 @@ h4.heading-subtitle {
 p.about-me {
     margin-bottom: 33px;
 }
+img.dream-img {
+    width: 98%;
+}
+section.dream-area {
+    margin: 176px 0;
+    background: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+h1.dream-header {
+    margin: 0;
+}
