@@ -1,0 +1,52 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+    margin: 0;
+}
+section.header-area{
+
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+.container {
+    display: flex;
+    padding: 0 5%;
+}
+.half-width {
+    width: 50%;
+    padding: 0 5%;
+}
+img.my-header-img {
+    width: 100%;
+}
+a.-btn {
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(
+45deg
+, lightsalmon, tomato);
+    padding: 12px 40px;
+    font-size: 17px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+h1 {
+    font-size: 50px;
+    line-height: 1.9;
+    margin-bottom: 0;
+}
+p {
+    margin-bottom: 33px;
+    font-size: 18px;
+    letter-spacing: 2px;
+    line-height: 25px;
+}
+span.below-title {
+    color: orange;
+}
+h4.heading-subtitle {
+    font-size: 23px;
+}
+p.about-me {
+    margin-bottom: 33px;
+}
