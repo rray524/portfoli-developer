@@ -62,3 +62,43 @@ section.dream-area {
 h1.dream-header {
     margin: 0;
 }
+.half-width.first-column {
+    margin-bottom: 50px;
+    padding-bottom: 35px;
+    border-left: 7px solid;
+    border-image: linear-gradient(
+180deg
+, lightsalmon, tomato);
+    border-image-slice: 1;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.half-width.second-column {
+    margin-bottom: 50px;
+    padding-bottom: 35px;
+    border-left: 7px solid;
+    border-image: linear-gradient(
+180deg
+, blue, cyan);
+    border-image-slice: 1;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.experience-area h1 {
+    font-size: 43px;
+}
+p.copyright-text {
+    text-align: center;
+}
+h1.experience-title {
+    margin-bottom: 30px;
+}
+section.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.half-width.first-column {
+    margin-right: 2%;
+}
+.half-width.second-column {
+    margin-left: 2%;
+}
