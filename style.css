@@ -85,6 +85,9 @@ h1.dream-header {
 .experience-area h1 {
     font-size: 43px;
 }
+h3.dev-position {
+    color: orange;
+}
 p.copyright-text {
     text-align: center;
 }
